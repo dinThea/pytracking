@@ -1,1 +1,10 @@
-
+pytorch 
+torchvision 
+cudatoolkit=10.0
+matplotlib=2.2.2
+pandas
+opencv-python
+tensorboardX
+cython
+pycocotools
+jpeg4py
